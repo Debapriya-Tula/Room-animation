@@ -1,7 +1,7 @@
 # Room-animation
 A short animation showcasing the items of my room in Blender.
 
-# To add the image files into the monitor and the wall photo.
+## To add the image files into the monitor and the wall photo.
 1) Select the object (monitor or wall photo).
 2) Go to the **Material** section on the right half of the screen.
 3) Click on the button adjacent to **Color**. 
